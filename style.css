@@ -26,7 +26,8 @@ body {
 	width: 100%;
 	max-width: 420px;
 	height: auto;
-	margin: 0 auto;
+	aspect-ratio: 760 / 508;
+	margin: 16px auto 0;
 }
 
 .blink {
